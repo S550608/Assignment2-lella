@@ -12,11 +12,14 @@ _ _ _
 # Nearest airport and route direction to Museum
 
 1. Vijayawada International Airport.
-2. From the bus stop we need to take the cab then it will go via bundur road to airport.
+2. From the bus stop we need to take the cab then it will go via bundur road to Enikepadu.
+3. Enikepadu to Gudavalli
+4. Gudavalli to RTO Gannavaram
+5. From RTO Gannavaram Turn left towards the Vijayawada International Airport
 
 ### Unordered list
 
----
+_ _ _
 
 * Undavalli Caves
 * Kondapalli Fort
@@ -60,6 +63,6 @@ The given below table shows that gives name of the cities and locations to visin
     $pageName = basename($_SERVER['PHP_SELF']);
 ?>
 ```
-[code snippet](https://css-tricks.com/snippets/php/get-current-file-name/)
+[Code snippet](https://css-tricks.com/snippets/php/get-current-file-name/)
 
 ***
