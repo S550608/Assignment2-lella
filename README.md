@@ -38,3 +38,9 @@ The given below table shows that gives name of the cities and locations to visin
 | Banglore    | Bangalore Palace      | 2 hours          |
 | Agra        | Taj Mahal             | 4 hours          |
 | Chennai     | Palani                | 5 hours          |
+
+# Blockquote
+
+> If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -- *James Cameron*
+
+> Life is what happens when you're busy making other plans. -- *John Lennon*
