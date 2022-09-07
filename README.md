@@ -42,7 +42,8 @@ The given below table shows that gives name of the cities and locations to visin
 | Agra        | Taj Mahal             | 4 hours          |
 | Chennai     | Palani                | 5 hours          |
 
-# Blockquote
+***
+#  Pithy Quotes
 
 > If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -- *James Cameron*
 
