@@ -25,3 +25,16 @@ _ _ _
 * Subramanya Swami Temple
 
 [AboutMe](AboutMe.md)
+
+***
+
+# Best cities to visit in India
+
+The given below table shows that gives name of the cities and locations to visin in India
+
+| City name   |  Important location   |   Amount of time |
+| ---------   | -------------------   | --------------   |
+| Hyderabad   | Charminar             | 1 hour           |
+| Banglore    | Bangalore Palace      | 2 hours          |
+| Agra        | Taj Mahal             | 4 hours          |
+| Chennai     | Palani                | 5 hours          |
