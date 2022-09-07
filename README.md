@@ -44,3 +44,22 @@ The given below table shows that gives name of the cities and locations to visin
 > If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -- *James Cameron*
 
 > Life is what happens when you're busy making other plans. -- *John Lennon*
+
+*** 
+
+#  Code Fencing
+
+> How to Get Current File Name in PHP?
+
+[Question](https://stackoverflow.com/questions/4221333/get-the-current-script-file-name)
+
+***
+
+```
+<?php
+    $pageName = basename($_SERVER['PHP_SELF']);
+?>
+```
+[code snippet](https://css-tricks.com/snippets/php/get-current-file-name/)
+
+***
