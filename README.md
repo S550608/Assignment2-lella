@@ -36,12 +36,12 @@ _ _ _
 
 The given below table shows that gives name of the cities and locations to visin in India
 
-| City name   |  Important location   |   Amount of time |
-| ---------   | -------------------   | --------------   |
-| Hyderabad   | Charminar             | 1 hour           |
-| Banglore    | Bangalore Palace      | 2 hours          |
-| Agra        | Taj Mahal             | 4 hours          |
-| Chennai     | Palani                | 5 hours          |
+| Name of the City|  Location to visit  | Amount time to spend|
+| ---------       | ------------------- | --------------      |
+| Hyderabad       | Charminar           | 1 hour              |
+| Banglore        | Bangalore Palace    | 2 hours             |
+| Agra            | Taj Mahal           | 4 hours             |
+| Chennai         | Palani              | 30 mintues          |
 
 ***
 #  Pithy Quotes
