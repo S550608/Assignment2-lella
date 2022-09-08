@@ -12,10 +12,10 @@ _ _ _
 # Nearest airport and route direction to Museum
 
 1. Vijayawada International Airport.
-2. From the bus stop we need to take the cab then it will go via bundur road to Enikepadu.
-3. Enikepadu to Gudavalli
-4. Gudavalli to RTO Gannavaram
-5. From RTO Gannavaram Turn left towards the Vijayawada International Airport
+2. From the Vijayawada International Airport we need to take the cab then it will goto Done Atkuru.
+3. Done Atkuru to Ramavarapadu
+4. Ramavarapadu to Governor Peta
+5. From Governor Peta Turn left towards the Bapu Museum, Vijayawada
 
 ### Unordered list
 
