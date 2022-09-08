@@ -11,11 +11,12 @@ _ _ _
 
 # Nearest airport and route direction to Museum
 
-1. Vijayawada International Airport.
-2. From the Vijayawada International Airport we need to take the cab then it will goto Done Atkuru.
-3. Done Atkuru to Ramavarapadu
-4. Ramavarapadu to Governor Peta
-5. From Governor Peta Turn left towards the Bapu Museum, Vijayawada
+Vijayawada International Airport
+
+1. From the Vijayawada International Airport we need to take the cab then it will goto Done Atkuru.
+2. Done Atkuru to Ramavarapadu
+3. Ramavarapadu to Governor Peta
+4. From Governor Peta Turn left towards the Bapu Museum, Vijayawada
 
 ### Unordered list
 
